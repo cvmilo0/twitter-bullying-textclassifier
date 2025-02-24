@@ -68,9 +68,8 @@ Contributions are welcome. Please open an issue first to discuss any changes you
 This project is under the MIT License - see the LICENSE file for details.
 
 ## Author ✨
-[Your Name]
+Camilo Cortés Gómez
 
 ## Contact 📫
-- LinkedIn: [Your LinkedIn profile]
-- Email: [Your email]
-- Portfolio: [Your website/portfolio] 
+- LinkedIn: [Camilo Cortés Gómez](https://www.linkedin.com/in/camilo-cortes-gomez/)
+- Email: [cvmilocortes@gmail.com](mailto:cvmilocortes@gmail.com)
